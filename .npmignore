@@ -1,0 +1,9 @@
+build
+mock
+node_modules
+public
+src
+index.html
+ts.config
+vite.config.ts
+.npmignore

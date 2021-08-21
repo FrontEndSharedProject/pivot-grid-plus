@@ -1,0 +1,990 @@
+{
+  "data": {
+    "id": "a65b929f-be27-4c92-9a24-6c37f45787cd",
+    "name": "\u672a\u547d\u540d\u7edf\u8ba1",
+    "view_id": "",
+    "source_id": "",
+    "type": 0,
+    "chart": 6,
+    "order": 0,
+    "filters": [],
+    "xaxis": [
+      { "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297", "particle": "0" },
+      { "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff", "particle": "1" },
+      { "field": "75c91a3f-f165-4a6f-a72b-583041755a42", "particle": "" }
+    ],
+    "yaxis": [
+      { "field": "69d63987-d725-4c27-b5c0-bfd6487bbca0", "particle": "1" },
+      { "field": "a2fff971-d663-4487-bd7c-6f10d57ee4b3", "particle": "1" },
+      { "field": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71", "particle": "1" },
+      { "field": "12943b9b-aad4-4df7-bbf2-560239f794e0", "particle": "1" },
+      { "field": "a127993b-5df6-46e1-a818-db0a48245782", "particle": "1" },
+      { "field": "bda1decf-8762-4e02-b970-aae5f952cbbc", "particle": "1" }
+    ],
+    "options": {
+      "row": [
+        "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+        "f9dac88a-baa8-44bf-8ef7-43881a0700ff"
+      ],
+      "column": ["75c91a3f-f165-4a6f-a72b-583041755a42"]
+    },
+    "sort": { "ctime": true },
+    "result": [
+      {
+        "fields": [
+          {
+            "id": "[\"fe2d4c00-4509-4880-b276-7091628f4bc2\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u826f\u597d"
+          },
+          {
+            "id": "",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": ""
+          },
+          {
+            "id": "2021-07-18 15:58:30",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": "2021-07-18 15:58:30"
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 1 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 1 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 1 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 1 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 1 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 1 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"fe2d4c00-4509-4880-b276-7091628f4bc2\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u826f\u597d"
+          },
+          {
+            "id": "",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": ""
+          },
+          {
+            "id": "2021-07-18 15:58:27",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": "2021-07-18 15:58:27"
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 1 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 1 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 1 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 1 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 1 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 1 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"c3a58f43-062b-4620-8dd4-e5f56215dd01\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u5c0f\u827a"
+          },
+          {
+            "id": "[\"dd622d0f-f7ab-4f16-9133-ba2258af7fc7\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u4f53\u8d34"
+          },
+          {
+            "id": "2021-07-18 16:17:37",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": "2021-07-18 16:17:37"
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 3 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 3 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 3 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 3 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 3 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 3 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"c3a58f43-062b-4620-8dd4-e5f56215dd01\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u5c0f\u827a"
+          },
+          {
+            "id": "[\"561c7b58-29ee-42a7-b927-21bd373f431d\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "Dedian"
+          },
+          {
+            "id": "2021-07-18 16:17:36",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": "2021-07-18 16:17:36"
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 2 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 2 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 2 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 2 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 2 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 2 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"ab1d806b-ba08-48fb-ac3a-586e25bfb02c\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u8c28\u5fc3"
+          },
+          {
+            "id": "[\"dd622d0f-f7ab-4f16-9133-ba2258af7fc7\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u4f53\u8d34"
+          },
+          {
+            "id": "",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": ""
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 0 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 0 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 0 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 0 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 0 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 0 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"99db4a87-dee4-45d8-ac82-dc030fa0c3e8\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u674e\u5bfb"
+          },
+          {
+            "id": "[\"dd622d0f-f7ab-4f16-9133-ba2258af7fc7\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u4f53\u8d34"
+          },
+          {
+            "id": "",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": ""
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 0 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 0 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 0 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 0 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 0 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 0 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"779ab96e-dcd3-4b7a-aa03-4740475cc7ac\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u5fc3\u6d77"
+          },
+          {
+            "id": "[\"dd622d0f-f7ab-4f16-9133-ba2258af7fc7\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u4f53\u8d34"
+          },
+          {
+            "id": "",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": ""
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 0 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 0 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 0 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 0 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 0 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 0 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"779ab96e-dcd3-4b7a-aa03-4740475cc7ac\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u5fc3\u6d77"
+          },
+          {
+            "id": "[\"57d38db0-a923-4db7-928d-40bd868cd936\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u5f20\u51e1"
+          },
+          {
+            "id": "",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": ""
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 0 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 0 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 0 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 0 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 0 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 0 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"779ab96e-dcd3-4b7a-aa03-4740475cc7ac\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u5fc3\u6d77"
+          },
+          {
+            "id": "[\"21f2fa7f-335d-46bb-b465-00b4ce823a8a\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "Aguzz Nyoman"
+          },
+          {
+            "id": "",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": ""
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 0 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 0 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 0 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 0 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 0 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 0 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"779ab96e-dcd3-4b7a-aa03-4740475cc7ac\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u5fc3\u6d77"
+          },
+          {
+            "id": "[\"0efb0657-b764-4bc9-ab18-aaf336f8d2d6\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u7ec6\u5fc3"
+          },
+          {
+            "id": "2021-07-19 00:40:09",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": "2021-07-19 00:40:09"
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 2 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 2 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 2 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 2 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 2 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 2 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"779ab96e-dcd3-4b7a-aa03-4740475cc7ac\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u5fc3\u6d77"
+          },
+          {
+            "id": "[\"0efb0657-b764-4bc9-ab18-aaf336f8d2d6\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u7ec6\u5fc3"
+          },
+          {
+            "id": "2021-07-18 15:58:27",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": "2021-07-18 15:58:27"
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 1 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 1 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 1 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 1 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 1 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 1 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"779ab96e-dcd3-4b7a-aa03-4740475cc7ac\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u5fc3\u6d77"
+          },
+          {
+            "id": "[\"0efb0657-b764-4bc9-ab18-aaf336f8d2d6\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u7ec6\u5fc3"
+          },
+          {
+            "id": "",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": ""
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 0 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 0 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 0 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 0 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 0 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 0 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"5853a596-7684-47f4-bf56-5dd80224de75\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u6768\u656c"
+          },
+          {
+            "id": "[\"dd622d0f-f7ab-4f16-9133-ba2258af7fc7\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u4f53\u8d34"
+          },
+          {
+            "id": "",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": ""
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 0 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 0 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 0 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 0 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 0 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 0 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"5853a596-7684-47f4-bf56-5dd80224de75\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u6768\u656c"
+          },
+          {
+            "id": "[\"0efb0657-b764-4bc9-ab18-aaf336f8d2d6\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u7ec6\u5fc3"
+          },
+          {
+            "id": "",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": ""
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 0 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 0 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 0 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 0 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 0 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 0 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"57a146b8-5532-43e0-8db7-14d2066b4c0a\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u53f6\u51e1"
+          },
+          {
+            "id": "[\"dd622d0f-f7ab-4f16-9133-ba2258af7fc7\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u4f53\u8d34"
+          },
+          {
+            "id": "",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": ""
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 0 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 0 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 0 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 0 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 0 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 0 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"57a146b8-5532-43e0-8db7-14d2066b4c0a\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u53f6\u51e1"
+          },
+          {
+            "id": "[\"21f2fa7f-335d-46bb-b465-00b4ce823a8a\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "Aguzz Nyoman"
+          },
+          {
+            "id": "",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": ""
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 0 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 0 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 0 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 0 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 0 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 0 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"57a146b8-5532-43e0-8db7-14d2066b4c0a\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u53f6\u51e1"
+          },
+          {
+            "id": "[\"0efb0657-b764-4bc9-ab18-aaf336f8d2d6\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u7ec6\u5fc3"
+          },
+          {
+            "id": "",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": ""
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 0 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 0 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 0 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 0 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 0 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 0 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"4f080272-8d7d-4923-9cc7-9f9c85d31d9f\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u6768\u987a"
+          },
+          {
+            "id": "[\"dd622d0f-f7ab-4f16-9133-ba2258af7fc7\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u4f53\u8d34"
+          },
+          {
+            "id": "2021-07-18 16:17:36",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": "2021-07-18 16:17:36"
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 5 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 5 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 5 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 5 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 5 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 5 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"4f080272-8d7d-4923-9cc7-9f9c85d31d9f\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u6768\u987a"
+          },
+          {
+            "id": "[\"561c7b58-29ee-42a7-b927-21bd373f431d\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "Dedian"
+          },
+          {
+            "id": "2021-07-18 16:17:36",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": "2021-07-18 16:17:36"
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 1 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 1 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 1 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 1 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 1 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 1 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"0e608c74-f28e-4d17-9c28-16b0df6747d7\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u8e0f\u5b9e"
+          },
+          {
+            "id": "[\"ef4b242d-8742-41db-bb60-093dfd130b8d\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "Iwan Canggur"
+          },
+          {
+            "id": "",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": ""
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 0 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 0 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 0 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 0 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 0 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 0 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"0e608c74-f28e-4d17-9c28-16b0df6747d7\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u8e0f\u5b9e"
+          },
+          {
+            "id": "[\"dd622d0f-f7ab-4f16-9133-ba2258af7fc7\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u4f53\u8d34"
+          },
+          {
+            "id": "2021-07-18 16:50:31",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": "2021-07-18 16:50:31"
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 1 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 1 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 1 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 1 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 1 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 1 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"0e608c74-f28e-4d17-9c28-16b0df6747d7\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u8e0f\u5b9e"
+          },
+          {
+            "id": "[\"dd622d0f-f7ab-4f16-9133-ba2258af7fc7\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u4f53\u8d34"
+          },
+          {
+            "id": "2021-07-18 16:50:25",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": "2021-07-18 16:50:25"
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 1 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 1 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 1 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 1 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 1 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 1 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"0e608c74-f28e-4d17-9c28-16b0df6747d7\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u8e0f\u5b9e"
+          },
+          {
+            "id": "[\"dd622d0f-f7ab-4f16-9133-ba2258af7fc7\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u4f53\u8d34"
+          },
+          {
+            "id": "2021-07-18 16:50:16",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": "2021-07-18 16:50:16"
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 1 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 1 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 1 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 1 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 1 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 1 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"0e608c74-f28e-4d17-9c28-16b0df6747d7\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u8e0f\u5b9e"
+          },
+          {
+            "id": "[\"dd622d0f-f7ab-4f16-9133-ba2258af7fc7\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u4f53\u8d34"
+          },
+          {
+            "id": "",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": ""
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 0 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 0 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 0 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 0 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 0 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 0 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"0e608c74-f28e-4d17-9c28-16b0df6747d7\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u8e0f\u5b9e"
+          },
+          {
+            "id": "[\"57d38db0-a923-4db7-928d-40bd868cd936\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u5f20\u51e1"
+          },
+          {
+            "id": "",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": ""
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 0 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 0 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 0 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 0 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 0 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 0 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"0e608c74-f28e-4d17-9c28-16b0df6747d7\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u8e0f\u5b9e"
+          },
+          {
+            "id": "[\"561c7b58-29ee-42a7-b927-21bd373f431d\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "Dedian"
+          },
+          {
+            "id": "2021-07-18 16:17:36",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": "2021-07-18 16:17:36"
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 2 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 2 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 2 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 2 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 2 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 2 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"0e608c74-f28e-4d17-9c28-16b0df6747d7\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u8e0f\u5b9e"
+          },
+          {
+            "id": "[\"21f2fa7f-335d-46bb-b465-00b4ce823a8a\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "Aguzz Nyoman"
+          },
+          {
+            "id": "",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": ""
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 0 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 0 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 0 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 0 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 0 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 0 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"0e608c74-f28e-4d17-9c28-16b0df6747d7\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u8e0f\u5b9e"
+          },
+          {
+            "id": "[\"0efb0657-b764-4bc9-ab18-aaf336f8d2d6\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u7ec6\u5fc3"
+          },
+          {
+            "id": "2021-07-18 16:17:37",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": "2021-07-18 16:17:37"
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 1 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 1 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 1 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 1 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 1 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 1 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"0e608c74-f28e-4d17-9c28-16b0df6747d7\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u8e0f\u5b9e"
+          },
+          {
+            "id": "[\"0efb0657-b764-4bc9-ab18-aaf336f8d2d6\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u7ec6\u5fc3"
+          },
+          {
+            "id": "",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": ""
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 0 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 0 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 0 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 0 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 0 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 0 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"0e608c74-f28e-4d17-9c28-16b0df6747d7\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u8e0f\u5b9e"
+          },
+          {
+            "id": "",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": ""
+          },
+          {
+            "id": "2021-07-18 16:17:35",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": "2021-07-18 16:17:35"
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 2 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 2 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 2 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 2 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 2 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 2 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"018e67e9-ab77-427b-8eba-500d2c8bda5c\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u4f55\u610f"
+          },
+          {
+            "id": "[\"dd622d0f-f7ab-4f16-9133-ba2258af7fc7\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u4f53\u8d34"
+          },
+          {
+            "id": "",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": ""
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 0 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 0 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 0 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 0 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 0 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 0 }
+        ]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"013fb735-6559-46eb-8ede-a4e6562aa12d\"]",
+            "field": "5fa779c0-6f30-4f0f-afe9-a10c4edf7297",
+            "title": "\u7559\u5fc3"
+          },
+          {
+            "id": "[\"dd622d0f-f7ab-4f16-9133-ba2258af7fc7\"]",
+            "field": "f9dac88a-baa8-44bf-8ef7-43881a0700ff",
+            "title": "\u4f53\u8d34"
+          },
+          {
+            "id": "",
+            "field": "75c91a3f-f165-4a6f-a72b-583041755a42",
+            "title": ""
+          }
+        ],
+        "values": [
+          { "id": "69d63987-d725-4c27-b5c0-bfd6487bbca0_filled", "value": 0 },
+          { "id": "a2fff971-d663-4487-bd7c-6f10d57ee4b3_filled", "value": 0 },
+          { "id": "ffcfb5a9-544a-42ec-b6f9-5263fbb61c71_filled", "value": 0 },
+          { "id": "12943b9b-aad4-4df7-bbf2-560239f794e0_filled", "value": 0 },
+          { "id": "a127993b-5df6-46e1-a818-db0a48245782_filled", "value": 0 },
+          { "id": "bda1decf-8762-4e02-b970-aae5f952cbbc_filled", "value": 0 }
+        ]
+      }
+    ],
+    "worksheet": {
+      "id": "2a41f85f-82fd-41dc-aa99-f0ad2631db7f",
+      "name": "\u6478\u5e95\u7ebf\u7d22\u8868",
+      "icon": "cloud"
+    }
+  },
+  "benchmark": { "memory": "8.69609 mb", "consume": "0.05464 s" },
+  "query": {
+    "count": 14,
+    "time": 17.8,
+    "sql": [
+      {
+        "query": "select * from `users` where `id` = ? limit 1",
+        "bindings": ["bebc4b3a-3ef4-4c83-bda1-70cbd4fe63e3"],
+        "time": 5.32
+      },
+      {
+        "query": "select * from `worksheets` where `id` = ?",
+        "bindings": ["2a41f85f-82fd-41dc-aa99-f0ad2631db7f"],
+        "time": 0.86
+      },
+      {
+        "query": "select * from `reports` where `id` = ?",
+        "bindings": ["a65b929f-be27-4c92-9a24-6c37f45787cd"],
+        "time": 1.01
+      },
+      {
+        "query": "select * from `reports` where `id` = ?",
+        "bindings": ["a65b929f-be27-4c92-9a24-6c37f45787cd"],
+        "time": 0.84
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["2a41f85f-82fd-41dc-aa99-f0ad2631db7f"],
+        "time": 1.03
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["21f8e7ce-9a47-48f6-b8fb-aab08280c18f"],
+        "time": 0.96
+      },
+      {
+        "query": "select `roles`.*, `model_has_role`.`model_id` as `pivot_model_id`, `model_has_role`.`role_id` as `pivot_role_id`, `model_has_role`.`model_type` as `pivot_model_type` from `roles` inner join `model_has_role` on `roles`.`id` = `model_has_role`.`role_id` where `model_has_role`.`model_id` = ? and `model_has_role`.`model_type` = ?",
+        "bindings": [
+          "bebc4b3a-3ef4-4c83-bda1-70cbd4fe63e3",
+          "App\\Models\\Base\\User"
+        ],
+        "time": 1.23
+      },
+      {
+        "query": "select * from `model_has_role` where `model_has_role`.`model_id` = ? and `model_has_role`.`model_id` is not null",
+        "bindings": ["bebc4b3a-3ef4-4c83-bda1-70cbd4fe63e3"],
+        "time": 0.97
+      },
+      {
+        "query": "select * from `rules` where `rules`.`model_id` = ? and `rules`.`model_id` is not null and `rules`.`model_type` = ? order by `order` asc",
+        "bindings": [
+          "e05978ea-b423-4cbf-a32a-8c7adee8c1c9",
+          "Rbac\\Models\\ModelHasRole"
+        ],
+        "time": 1.04
+      },
+      {
+        "query": "select * from `reports` where `id` = ?",
+        "bindings": ["a65b929f-be27-4c92-9a24-6c37f45787cd"],
+        "time": 0.92
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["2a41f85f-82fd-41dc-aa99-f0ad2631db7f"],
+        "time": 0.93
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["21f8e7ce-9a47-48f6-b8fb-aab08280c18f"],
+        "time": 0.88
+      },
+      {
+        "query": "select * from `rules` where `rules`.`model_id` = ? and `rules`.`model_id` is not null and `rules`.`model_type` = ? order by `order` asc",
+        "bindings": [
+          "a65b929f-be27-4c92-9a24-6c37f45787cd",
+          "App\\Models\\Worksheet\\Report"
+        ],
+        "time": 0.94
+      },
+      {
+        "query": "select * from `views` where `views`.`id` = ? limit 1",
+        "bindings": [""],
+        "time": 0.87
+      }
+    ]
+  }
+}

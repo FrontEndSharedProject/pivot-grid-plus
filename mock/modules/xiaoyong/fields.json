@@ -1,0 +1,2518 @@
+{
+  "data": [
+    {
+      "id": "bd1d0c7b-1bec-4b5b-b19e-9168b9048bf7",
+      "type": "text",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u6587\u672c",
+      "order": 0,
+      "rquired": 0,
+      "input": ["string"],
+      "output": "string",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "display",
+          "label": "\u663e\u793a\u6a21\u5f0f",
+          "value": "multi-line",
+          "type": "unknow"
+        },
+        {
+          "key": "default",
+          "label": "\u9ed8\u8ba4\u503c",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "variable",
+          "label": "\u53d8\u91cf\u540d",
+          "value": "",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "61c28795-5fe7-467c-8604-b84f247ccc1e",
+      "type": "select",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u4efb\u52a1\u6765\u6e90",
+      "order": 1,
+      "rquired": 0,
+      "input": ["binary_string", "uuid_collection"],
+      "output": "uuid_collection",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "type",
+          "label": "\u9009\u62e9\u7c7b\u578b",
+          "value": "0",
+          "type": "unknow"
+        },
+        {
+          "key": "options",
+          "label": "\u9009\u9879",
+          "value": {
+            "colorful": true,
+            "selected": ["83e74d86-32b8-4982-887f-dd4169c22724"],
+            "options": [
+              {
+                "key": "36a813f7-0b6a-4ff4-8d92-f54b0c353a04",
+                "title": "\u7b79\u5907\u8868\u683c",
+                "deleted": true,
+                "color": "#2196f3",
+                "bin": "1",
+                "value": 0
+              },
+              {
+                "key": "acad9b09-07d3-4c64-af31-eb49ae7dce0a",
+                "title": "\u9879\u76ee",
+                "deleted": false,
+                "color": "#2ebcd4",
+                "bin": "1000000",
+                "value": 0
+              },
+              {
+                "key": "0d0d97bb-080e-4e17-bf85-f2c4145f1b21",
+                "title": "\u89c6\u9891\u7b79\u5907",
+                "deleted": true,
+                "color": "#9e4fb1",
+                "bin": "10000000",
+                "value": 0
+              },
+              {
+                "key": "54365cf0-211b-4cac-b372-cfa6c8e16f69",
+                "title": "\u7b79\u5907",
+                "deleted": false,
+                "color": "#00c244",
+                "bin": "10",
+                "value": 0
+              },
+              {
+                "key": "ab957d9e-a8fa-4736-ab6d-c2dc05658357",
+                "title": "\u7cbe\u4fee",
+                "deleted": false,
+                "color": "#3f51b5",
+                "bin": "10000",
+                "value": 0
+              },
+              {
+                "key": "d9fad82c-8595-4dfa-83a2-72c0288fba60",
+                "title": "\u7ffb\u65b0\u9879\u76ee",
+                "deleted": true,
+                "color": "#f9ad14",
+                "bin": "100",
+                "value": 0
+              },
+              {
+                "key": "311d09af-138c-46a8-8fe8-f8e17548bc5a",
+                "title": "\u7267\u533a\u7b79\u5907",
+                "deleted": true,
+                "color": "#9e4fb1",
+                "bin": "100000000",
+                "value": 0
+              },
+              {
+                "key": "24d21695-c904-43e7-8ce3-efd942728cd4",
+                "title": "\u533a\u91cc\u7b79\u5907",
+                "deleted": true,
+                "color": "#2ebcd4",
+                "bin": "1000000000",
+                "value": 0
+              },
+              {
+                "key": "9ca80432-c211-4e44-9a63-e1a9f13fe137",
+                "title": "\u5176\u5b83",
+                "deleted": true,
+                "color": "#455a64",
+                "bin": "100000",
+                "value": 0
+              },
+              {
+                "key": "ec3c17d7-2192-4125-9ce5-ac4f9299923c",
+                "title": "\u7535\u5f71\u7b79\u5907",
+                "deleted": true,
+                "color": "#4caf50",
+                "bin": "10000000000",
+                "value": 0
+              },
+              {
+                "key": "d9653f3d-5dde-46b3-a885-1e48e26bcb98",
+                "title": "\u526f\u4e1a\u9879\u76ee",
+                "deleted": true,
+                "color": "#e95c0a",
+                "bin": "100000000000",
+                "value": 0
+              },
+              {
+                "key": "9de3700e-0e17-4be9-bdcf-5e2240a84ba0",
+                "title": "\u533a\u91cc",
+                "deleted": false,
+                "color": "#F5A623",
+                "bin": "1000000000000",
+                "value": 0
+              },
+              {
+                "key": "83e74d86-32b8-4982-887f-dd4169c22724",
+                "title": "\ud83e\udd28",
+                "deleted": false,
+                "color": "#FFFFFF",
+                "bin": "1000",
+                "value": 0
+              }
+            ]
+          },
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "1793c900-b90b-4368-950e-4510ca7d0b43",
+      "type": "select",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\ud83d\udcc2\u5f53\u524d\u4f4d\u7f6e",
+      "order": 2,
+      "rquired": 0,
+      "input": ["binary_string", "uuid_collection"],
+      "output": "uuid_collection",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "type",
+          "label": "\u9009\u62e9\u7c7b\u578b",
+          "value": "0",
+          "type": "unknow"
+        },
+        {
+          "key": "options",
+          "label": "\u9009\u9879",
+          "value": {
+            "colorful": false,
+            "selected": ["fd8a0b3b-12f1-44ed-b0f5-e3dca188facb"],
+            "options": [
+              {
+                "key": "a479701d-b5ba-40af-a90b-2560803803fe",
+                "title": "\u5728\u5e93\u91cc",
+                "deleted": false,
+                "color": "#2196f3",
+                "bin": "1",
+                "value": 0
+              },
+              {
+                "key": "583b886c-f7e1-48b8-86e2-1724890d37d9",
+                "title": "\u4e0b\u67b6",
+                "deleted": false,
+                "color": "#00c244",
+                "bin": "10",
+                "value": 0
+              },
+              {
+                "key": "fd8a0b3b-12f1-44ed-b0f5-e3dca188facb",
+                "title": "--",
+                "deleted": false,
+                "color": "#FFFFFF",
+                "bin": "100",
+                "value": 0
+              }
+            ]
+          },
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "8edda5b6-4537-4c9f-b219-39d04d7e773c",
+      "type": "text",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\ud83d\udcc2\u5927\u7c7b\u522b",
+      "order": 3,
+      "rquired": 0,
+      "input": ["string"],
+      "output": "string",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "display",
+          "label": "\u663e\u793a\u6a21\u5f0f",
+          "value": "multi-line",
+          "type": "unknow"
+        },
+        {
+          "key": "default",
+          "label": "\u9ed8\u8ba4\u503c",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "variable",
+          "label": "\u53d8\u91cf\u540d",
+          "value": "",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "9cd27cc8-be86-487d-9ac8-2a5648149f27",
+      "type": "text",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\ud83d\udcc2\u6709\u65e0\u9650\u5236",
+      "order": 4,
+      "rquired": 0,
+      "input": ["string"],
+      "output": "string",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "display",
+          "label": "\u663e\u793a\u6a21\u5f0f",
+          "value": "multi-line",
+          "type": "unknow"
+        },
+        {
+          "key": "default",
+          "label": "\u9ed8\u8ba4\u503c",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "variable",
+          "label": "\u53d8\u91cf\u540d",
+          "value": "",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "b44c8e7a-1ee0-42bd-a980-60f10cbc08fb",
+      "type": "select",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\ud83d\udcc2\u4e00\u7ea7\u5206\u7c7b",
+      "order": 5,
+      "rquired": 0,
+      "input": ["binary_string", "uuid_collection"],
+      "output": "uuid_collection",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "type",
+          "label": "\u9009\u62e9\u7c7b\u578b",
+          "value": "0",
+          "type": "unknow"
+        },
+        {
+          "key": "options",
+          "label": "\u9009\u9879",
+          "value": {
+            "colorful": false,
+            "selected": ["375654fd-8302-4ea4-9168-14d2884fda3c"],
+            "options": [
+              {
+                "key": "01ccf8c5-4f7c-499f-9eb9-932b88e26b64",
+                "title": "\u5efa\u7b51",
+                "deleted": false,
+                "color": "#2196f3",
+                "bin": "1",
+                "value": 0
+              },
+              {
+                "key": "3fe61de6-6321-468c-8e8b-3dfe89446d4a",
+                "title": "\u5efa\u7b51\u5143\u7d20",
+                "deleted": false,
+                "color": "#00c244",
+                "bin": "10",
+                "value": 0
+              },
+              {
+                "key": "231dada2-80a2-4156-a38b-416d7111ca9f",
+                "title": "\u8f66\u8f86\u4ea4\u901a",
+                "deleted": false,
+                "color": "#f9ad14",
+                "bin": "100",
+                "value": 0
+              },
+              {
+                "key": "52b3819f-5055-4615-85a8-241473d65a09",
+                "title": "\u751f\u6d3b\u7528\u54c1",
+                "deleted": false,
+                "color": "#4caf50",
+                "bin": "1000",
+                "value": 0
+              },
+              {
+                "key": "cb004beb-e52b-4ae0-bf96-0d11ba499177",
+                "title": "\u653f\u5e9c\u673a\u6784",
+                "deleted": false,
+                "color": "#8f7ee6",
+                "bin": "10000",
+                "value": 0
+              },
+              {
+                "key": "19cc57f1-7b67-416a-a7d9-8eee0438f1b1",
+                "title": "\u5e7f\u544a\u7c7b",
+                "deleted": false,
+                "color": "#455a64",
+                "bin": "1000000000",
+                "value": 0
+              },
+              {
+                "key": "9d6bdc2d-4c14-4875-929e-3caa01cec5d1",
+                "title": "\u5176\u4ed6",
+                "deleted": false,
+                "color": "#8f7ee6",
+                "bin": "10000000000",
+                "value": 0
+              },
+              {
+                "key": "e9565a08-32e0-4426-92ba-2bc87b8f5bc0",
+                "title": "\u6b66\u5668",
+                "deleted": false,
+                "color": "#9e4fb1",
+                "bin": "100000",
+                "value": 0
+              },
+              {
+                "key": "2cdf49be-872b-478a-aa2e-fae9f467f2ee",
+                "title": "\u4e09\u6b65\u4f5c\u5de5",
+                "deleted": false,
+                "color": "#e91e63",
+                "bin": "1000000",
+                "value": 0
+              },
+              {
+                "key": "42399957-16c1-4d95-b1c8-69b7c180edde",
+                "title": "\u4e66\u7c4d\u7c7b",
+                "deleted": false,
+                "color": "#3f51b5",
+                "bin": "100000000",
+                "value": 0
+              },
+              {
+                "key": "375654fd-8302-4ea4-9168-14d2884fda3c",
+                "title": "--",
+                "deleted": false,
+                "color": "#ffaa00",
+                "bin": "10000000",
+                "value": 0
+              }
+            ]
+          },
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "b801b0b7-c871-48c7-b02c-5d3115a7c241",
+      "type": "text",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\ud83d\udcc2\u4e8c\u7ea7\u5206\u7c7b",
+      "order": 6,
+      "rquired": 0,
+      "input": ["string"],
+      "output": "string",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "display",
+          "label": "\u663e\u793a\u6a21\u5f0f",
+          "value": "multi-line",
+          "type": "unknow"
+        },
+        {
+          "key": "default",
+          "label": "\u9ed8\u8ba4\u503c",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "variable",
+          "label": "\u53d8\u91cf\u540d",
+          "value": "",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "610bd17a-19d8-4d58-9fa3-4b539460e0f1",
+      "type": "text",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\ud83d\udcc2\u4e09\u7ea7\u5206\u7c7b",
+      "order": 7,
+      "rquired": 0,
+      "input": ["string"],
+      "output": "string",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "display",
+          "label": "\u663e\u793a\u6a21\u5f0f",
+          "value": "multi-line",
+          "type": "unknow"
+        },
+        {
+          "key": "default",
+          "label": "\u9ed8\u8ba4\u503c",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "variable",
+          "label": "\u53d8\u91cf\u540d",
+          "value": "",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "ac901609-bce5-4699-a1eb-f279c9fc8d18",
+      "type": "text",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u00a9\ufe0f\u6392\u67e5\u7c7b\u522b",
+      "order": 8,
+      "rquired": 0,
+      "input": ["string"],
+      "output": "string",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "display",
+          "label": "\u663e\u793a\u6a21\u5f0f",
+          "value": "multi-line",
+          "type": "unknow"
+        },
+        {
+          "key": "default",
+          "label": "\u9ed8\u8ba4\u503c",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "variable",
+          "label": "\u53d8\u91cf\u540d",
+          "value": "",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "e7de116c-d45f-454b-9357-e93e14e4bddc",
+      "type": "rich_text",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u00a9\ufe0f\u6392\u67e5\u7248\u6743\u7ed3\u679c",
+      "order": 9,
+      "rquired": 0,
+      "input": ["string"],
+      "output": "string",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "\u586b\u5199\u6587\u672c\u5185\u5bb9",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "97ec0373-77f0-4513-a612-d0db653a760f",
+      "type": "hyperlink",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u4ea4\u63a5\ud83d\udd17",
+      "order": 10,
+      "rquired": 0,
+      "input": ["hyperlink"],
+      "output": "hyperlink",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "default",
+          "label": "\u9ed8\u8ba4\u503c",
+          "value": { "title": "", "url": "" },
+          "type": "hyperlink"
+        },
+        {
+          "key": "show-image",
+          "label": "\u663e\u793a\u56fe\u7247",
+          "value": 0,
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "3659b96e-dcf4-4140-b123-a1ede1be5a2c",
+      "type": "hyperlink",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u8d44\u4ea7\u622a\u56fe",
+      "order": 11,
+      "rquired": 0,
+      "input": ["hyperlink"],
+      "output": "hyperlink",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "default",
+          "label": "\u9ed8\u8ba4\u503c",
+          "value": { "title": "", "url": "" },
+          "type": "hyperlink"
+        },
+        {
+          "key": "show-image",
+          "label": "\u663e\u793a\u56fe\u7247",
+          "value": 1,
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "00d14605-2764-405d-ac3d-f3c808551c66",
+      "type": "text",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u2714\u9879\u76ee\u540d\u79f0",
+      "order": 12,
+      "rquired": 0,
+      "input": ["string"],
+      "output": "string",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "display",
+          "label": "\u663e\u793a\u6a21\u5f0f",
+          "value": "multi-line",
+          "type": "unknow"
+        },
+        {
+          "key": "default",
+          "label": "\u9ed8\u8ba4\u503c",
+          "value": "ZB(DB)_\u65e5\u671f\u7267\u533a_\u8d44\u4ea7\u540d",
+          "type": "unknow"
+        },
+        {
+          "key": "variable",
+          "label": "\u53d8\u91cf\u540d",
+          "value": "",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "9848df5a-5fd5-48f9-8a13-c636fa393294",
+      "type": "text",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u89c4\u8303\u547d\u540d",
+      "order": 13,
+      "rquired": 0,
+      "input": ["string"],
+      "output": "string",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "display",
+          "label": "\u663e\u793a\u6a21\u5f0f",
+          "value": "multi-line",
+          "type": "unknow"
+        },
+        {
+          "key": "default",
+          "label": "\u9ed8\u8ba4\u503c",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "variable",
+          "label": "\u53d8\u91cf\u540d",
+          "value": "",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "c2584617-b88d-4ae7-b3d6-ab3b339bf578",
+      "type": "text",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u5907\u6ce8",
+      "order": 14,
+      "rquired": 0,
+      "input": ["string"],
+      "output": "string",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "display",
+          "label": "\u663e\u793a\u6a21\u5f0f",
+          "value": "multi-line",
+          "type": "unknow"
+        },
+        {
+          "key": "default",
+          "label": "\u9ed8\u8ba4\u503c",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "variable",
+          "label": "\u53d8\u91cf\u540d",
+          "value": "",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "6652914c-14c4-4250-8e7b-2d49c6cf5989",
+      "type": "date",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u4e0b\u53d1\u4efb\u52a1\u65f6\u95f4",
+      "order": 15,
+      "rquired": 0,
+      "input": ["date"],
+      "output": "date",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "\u586b\u5199\u65e5\u671f",
+          "type": "unknow"
+        },
+        {
+          "key": "variable",
+          "label": "\u53d8\u91cf\u540d",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "accuracy",
+          "label": "\u7cbe\u5ea6",
+          "value": "date",
+          "type": "unknow"
+        },
+        {
+          "key": "default",
+          "label": "\u9ed8\u8ba4\u503c",
+          "value": "",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "c79bc4c0-a0e2-4228-beb1-79251b5b8b14",
+      "type": "date",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u23f0\u9884\u8ba1\u4e0a\u4ea4\u65e5\u671f",
+      "order": 16,
+      "rquired": 0,
+      "input": ["date"],
+      "output": "date",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "\u586b\u5199\u65e5\u671f",
+          "type": "unknow"
+        },
+        {
+          "key": "variable",
+          "label": "\u53d8\u91cf\u540d",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "accuracy",
+          "label": "\u7cbe\u5ea6",
+          "value": "date",
+          "type": "unknow"
+        },
+        {
+          "key": "default",
+          "label": "\u9ed8\u8ba4\u503c",
+          "value": "",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "f2fdd734-6e67-4cdd-8f25-f31ff18353f7",
+      "type": "rich_text",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u8be6\u7ec6\u8ba1\u5212",
+      "order": 17,
+      "rquired": 0,
+      "input": ["string"],
+      "output": "string",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "\u586b\u5199\u6587\u672c\u5185\u5bb9",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "b7068045-0ba2-4b0c-a966-d66c518c2d32",
+      "type": "rich_text",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u23f2\ufe0f\u5b9a\u989d\u60c5\u51b5",
+      "order": 18,
+      "rquired": 0,
+      "input": ["string"],
+      "output": "string",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "\u586b\u5199\u6587\u672c\u5185\u5bb9",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "cc870d0a-3fa3-402a-aacb-0403497d8339",
+      "type": "select",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u9636\u6bb5",
+      "order": 19,
+      "rquired": 0,
+      "input": ["binary_string", "uuid_collection"],
+      "output": "uuid_collection",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "type",
+          "label": "\u9009\u62e9\u7c7b\u578b",
+          "value": "0",
+          "type": "unknow"
+        },
+        {
+          "key": "options",
+          "label": "\u9009\u9879",
+          "value": {
+            "colorful": true,
+            "selected": ["838e4c6b-b4e4-4613-939a-b2c7e93f5d92"],
+            "options": [
+              {
+                "key": "07be232b-1d33-4ba7-9ddc-aba84132ef22",
+                "title": "\u524d\u671f\u9636\u6bb5",
+                "deleted": false,
+                "color": "#2196f3",
+                "bin": "1",
+                "value": 0
+              },
+              {
+                "key": "f835d184-4716-498d-80c7-02397c0f869c",
+                "title": "\u5efa\u6a21\u9636\u6bb5",
+                "deleted": false,
+                "color": "#00c244",
+                "bin": "10",
+                "value": 0
+              },
+              {
+                "key": "838e4c6b-b4e4-4613-939a-b2c7e93f5d92",
+                "title": "--",
+                "deleted": false,
+                "color": "#FFFFFF",
+                "bin": "100",
+                "value": 0
+              },
+              {
+                "key": "87adb77b-20d0-4ba8-9bef-c64ae7ae8942",
+                "title": "\u7b79\u5907\u9636\u6bb5",
+                "deleted": false,
+                "color": "#2ebcd4",
+                "bin": "1000",
+                "value": 0
+              },
+              {
+                "key": "f8987f8c-c076-4aff-ad10-ddf2adc6c635",
+                "title": "\u5efa\u6a21\u5f85\u9881\u53d1",
+                "deleted": false,
+                "color": "#e95c0a",
+                "bin": "10000",
+                "value": 0
+              },
+              {
+                "key": "55f81f92-fd45-46e5-9071-f80caf43b0fc",
+                "title": "\u7b49\u5f85\u7cbe\u4fee",
+                "deleted": false,
+                "color": "#8B572A",
+                "bin": "100000",
+                "value": 0
+              },
+              {
+                "key": "bd198c80-946a-4265-8869-e0d6e20bcd55",
+                "title": "\u7cbe\u4fee\u4e2d",
+                "deleted": false,
+                "color": "#2296f3",
+                "bin": "10000000",
+                "value": 0
+              },
+              {
+                "key": "cd8dc34a-7518-43f7-a736-84fc1e055e46",
+                "title": "\u7b49\u5f85\u4fee\u6539\u7248\u6743",
+                "deleted": false,
+                "color": "#F5A623",
+                "bin": "1000000",
+                "value": 0
+              }
+            ]
+          },
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "261b256a-5dfc-4151-b8c3-5ae1e1cd7afe",
+      "type": "select",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u5236\u4f5c\u987a\u5e8f",
+      "order": 20,
+      "rquired": 0,
+      "input": ["binary_string", "uuid_collection"],
+      "output": "uuid_collection",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "type",
+          "label": "\u9009\u62e9\u7c7b\u578b",
+          "value": "0",
+          "type": "unknow"
+        },
+        {
+          "key": "options",
+          "label": "\u9009\u9879",
+          "value": {
+            "colorful": true,
+            "selected": ["6b9f6dd7-ea1c-4efa-b8d7-bc52ad70b2ee"],
+            "options": [
+              {
+                "key": "e4b7b870-fb4c-471b-8878-9854ebafb69c",
+                "title": "\u4f18\u5148",
+                "deleted": false,
+                "color": "#2196f3",
+                "bin": "1",
+                "value": 0
+              },
+              {
+                "key": "58a2dc95-6030-4c6a-9cee-8253e7b47886",
+                "title": "\u653e\u540e",
+                "deleted": false,
+                "color": "#C28319",
+                "bin": "10",
+                "value": 0
+              },
+              {
+                "key": "6b9f6dd7-ea1c-4efa-b8d7-bc52ad70b2ee",
+                "title": "--",
+                "deleted": false,
+                "color": "#FFFFFF",
+                "bin": "100",
+                "value": 0
+              },
+              {
+                "key": "d5fcb3ed-f31d-4ee9-be1d-a90f89fbb67e",
+                "title": "\u2b50\u2b50\u2b50\u2b50\u2b50",
+                "deleted": false,
+                "color": "#94E0D2",
+                "bin": "1000",
+                "value": 0
+              },
+              {
+                "key": "c64d3fb0-237e-418f-b4bb-cab0ac8ef480",
+                "title": "\u2b50\u2b50\u2b50\u2b50",
+                "deleted": false,
+                "color": "#94E0D2",
+                "bin": "10000",
+                "value": 0
+              },
+              {
+                "key": "db1a54fc-5ba6-42a1-9f02-69da091f1d0e",
+                "title": "\u2b50\u2b50\u2b50",
+                "deleted": false,
+                "color": "#94E0D2",
+                "bin": "100000",
+                "value": 0
+              },
+              {
+                "key": "8b5cc953-5b29-4f2d-a996-66dae0523091",
+                "title": "\u2b50\u2b50",
+                "deleted": false,
+                "color": "#94E0D2",
+                "bin": "1000000",
+                "value": 0
+              },
+              {
+                "key": "1321b16c-662b-41b4-ade1-2c6b0cf3c6b2",
+                "title": "\u2b50",
+                "deleted": false,
+                "color": "#94E0D2",
+                "bin": "10000000",
+                "value": 0
+              }
+            ]
+          },
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "45fcd09f-46da-47d9-bef2-74773d22f9a9",
+      "type": "select",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u5236\u4f5c\u7267\u533a",
+      "order": 21,
+      "rquired": 0,
+      "input": ["binary_string", "uuid_collection"],
+      "output": "uuid_collection",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "type",
+          "label": "\u9009\u62e9\u7c7b\u578b",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "options",
+          "label": "\u9009\u9879",
+          "value": {
+            "colorful": false,
+            "selected": ["aa91a0ca-cb7c-4fe7-9297-8ba0650a09d2"],
+            "options": [
+              {
+                "key": "aa91a0ca-cb7c-4fe7-9297-8ba0650a09d2",
+                "title": "\u672a\u9009\u62e9",
+                "deleted": false,
+                "color": "#2196f3",
+                "bin": "1",
+                "value": 0
+              },
+              {
+                "key": "4934cfd5-4129-43eb-8070-3b031db9eabe",
+                "title": "ZM",
+                "deleted": false,
+                "color": "#e91e63",
+                "bin": "100000000",
+                "value": 0
+              },
+              {
+                "key": "21d51c2a-67d2-4022-bb75-1478bf894403",
+                "title": "SG",
+                "deleted": false,
+                "color": "#455a64",
+                "bin": "10000000",
+                "value": 0
+              },
+              {
+                "key": "270e743e-f7a2-4c8c-8eab-48833af03e74",
+                "title": "HN",
+                "deleted": false,
+                "color": "#00c244",
+                "bin": "10",
+                "value": 0
+              },
+              {
+                "key": "0c08f709-c932-4513-9575-bd7d25a8c03f",
+                "title": "SD",
+                "deleted": true,
+                "color": "#f9ad14",
+                "bin": "100",
+                "value": 0
+              },
+              {
+                "key": "b4d4794b-4218-4e8c-8231-a26fbc4cd35c",
+                "title": "SW",
+                "deleted": true,
+                "color": "#2ebcd4",
+                "bin": "1000",
+                "value": 0
+              },
+              {
+                "key": "a506c612-8a68-4236-9ec6-c9c241716788",
+                "title": "CG",
+                "deleted": true,
+                "color": "#3f51b5",
+                "bin": "10000",
+                "value": 0
+              },
+              {
+                "key": "2b5d3fd8-4c51-44fd-8fa9-68608036aea5",
+                "title": "DB",
+                "deleted": true,
+                "color": "#e91e63",
+                "bin": "100000",
+                "value": 0
+              },
+              {
+                "key": "c4c0ea7e-eaf3-45d1-8e5f-bf976991d39e",
+                "title": "JJ",
+                "deleted": false,
+                "color": "#2296f3",
+                "bin": "1000000",
+                "value": 0
+              },
+              {
+                "key": "198feaf0-5d77-474d-bd08-b5bc1588faa4",
+                "title": "\ud83d\ude00HW",
+                "deleted": false,
+                "color": "#455a64",
+                "bin": "1000000000",
+                "value": 0
+              },
+              {
+                "key": "2f548bb5-f5bb-4e87-8169-4fdb5f0df950",
+                "title": "HW\u786c\u8fb9",
+                "deleted": false,
+                "color": "#ffaa00",
+                "bin": "10000000000",
+                "value": 0
+              },
+              {
+                "key": "09d904c1-b2cd-4c2c-a827-df738c58d99a",
+                "title": "HW\u524d\u671f",
+                "deleted": false,
+                "color": "#455a64",
+                "bin": "100000000000",
+                "value": 0
+              }
+            ]
+          },
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "c5817d54-7e2b-4fdc-bab4-47f370b8a7b0",
+      "type": "select",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u5236\u4f5c\u7ec4",
+      "order": 22,
+      "rquired": 0,
+      "input": ["binary_string", "uuid_collection"],
+      "output": "uuid_collection",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "type",
+          "label": "\u9009\u62e9\u7c7b\u578b",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "options",
+          "label": "\u9009\u9879",
+          "value": {
+            "colorful": true,
+            "selected": ["1ddd9c14-4af9-4daa-93d4-ae3fb2e7d905"],
+            "options": [
+              {
+                "key": "d0ee683c-1c45-4311-acaf-26fc548536ff",
+                "title": "\u7267\u533a1\u7ec4",
+                "deleted": false,
+                "color": "#2196f3",
+                "bin": "1",
+                "value": 0
+              },
+              {
+                "key": "d38184f7-9831-4620-bbf6-eed4bed8f92a",
+                "title": "\u7267\u533a2\u7ec4",
+                "deleted": false,
+                "color": "#00c244",
+                "bin": "10",
+                "value": 0
+              },
+              {
+                "key": "f31df002-65e3-488c-a728-73c6cc8a9857",
+                "title": "\u7267\u533a3\u7ec4",
+                "deleted": false,
+                "color": "#f9ad14",
+                "bin": "100",
+                "value": 0
+              },
+              {
+                "key": "7ecbb79e-871c-44e9-bb1f-ddf1892063e3",
+                "title": "\u9879\u76ee\u505c\u6b62",
+                "deleted": true,
+                "color": "#000000",
+                "bin": "10000",
+                "value": 0
+              },
+              {
+                "key": "dc099e7b-2a44-41e3-af9f-c28bb2a2a794",
+                "title": "\u5df2\u5b8c\u6210",
+                "deleted": true,
+                "color": "#e95c0a",
+                "bin": "1000",
+                "value": 0
+              },
+              {
+                "key": "100b6309-4731-4a55-85e3-fc8d97dda4ee",
+                "title": "\u8f6c\u6d77\u5916\u4fee\u6539",
+                "deleted": true,
+                "color": "#2296f3",
+                "bin": "1000000",
+                "value": 0
+              },
+              {
+                "key": "1ddd9c14-4af9-4daa-93d4-ae3fb2e7d905",
+                "title": "--",
+                "deleted": true,
+                "color": "#FFFFFF",
+                "bin": "100000",
+                "value": 0
+              },
+              {
+                "key": "9ae15cf6-55e0-40d6-8eb7-f6f45ef31a9a",
+                "title": "\u7267\u533a4\u7ec4",
+                "deleted": false,
+                "color": "#2ebcd4",
+                "bin": "10000000",
+                "value": 0
+              },
+              {
+                "key": "cb7b95a4-0384-4da7-964c-def007c7df42",
+                "title": "\u524d\u671f\u7ec4",
+                "deleted": false,
+                "color": "#3f51b5",
+                "bin": "100000000000",
+                "value": 0
+              },
+              {
+                "key": "40188e51-c5e5-4abd-b603-ca4ce55b3acc",
+                "title": "\u9009\u98796",
+                "deleted": true,
+                "color": "#2ebcd4",
+                "bin": "1000000000",
+                "value": 0
+              },
+              {
+                "key": "1e71ad33-739a-446d-9f60-d0f853e741d0",
+                "title": "\u9009\u98796",
+                "deleted": true,
+                "color": "#e91e63",
+                "bin": "10000000000",
+                "value": 0
+              },
+              {
+                "key": "0becc48c-ecc1-46ba-894e-d4f69f38e986",
+                "title": "\ud83e\udd28",
+                "deleted": false,
+                "color": "#FFFFFF",
+                "bin": "100000000",
+                "value": 0
+              },
+              {
+                "key": "ed8b0e72-1e13-49c4-ade6-b538134970ce",
+                "title": "\u672a\u5206\u7ec4",
+                "deleted": false,
+                "color": "#8B572A",
+                "bin": "1000000000000",
+                "value": 0
+              },
+              {
+                "key": "d353a1bf-f45e-4752-af94-da235b706653",
+                "title": "\u524d\u671f\u2714\ufe0f",
+                "deleted": false,
+                "color": "#66972C",
+                "bin": "10000000000000",
+                "value": 0
+              }
+            ]
+          },
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "1621b3d4-3cfc-4d00-ada2-ef9208ad4040",
+      "type": "text",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u5236\u4f5c\u4eba",
+      "order": 23,
+      "rquired": 0,
+      "input": ["string"],
+      "output": "string",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "display",
+          "label": "\u663e\u793a\u6a21\u5f0f",
+          "value": "multi-line",
+          "type": "unknow"
+        },
+        {
+          "key": "default",
+          "label": "\u9ed8\u8ba4\u503c",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "variable",
+          "label": "\u53d8\u91cf\u540d",
+          "value": "",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "d3ea7204-3725-4903-85f7-242e8813e8c6",
+      "type": "select",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u4efb\u52a1\u73b0\u72b6",
+      "order": 24,
+      "rquired": 0,
+      "input": ["binary_string", "uuid_collection"],
+      "output": "uuid_collection",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "type",
+          "label": "\u9009\u62e9\u7c7b\u578b",
+          "value": "0",
+          "type": "unknow"
+        },
+        {
+          "key": "options",
+          "label": "\u9009\u9879",
+          "value": {
+            "colorful": true,
+            "selected": ["c2445119-e1df-46f9-9012-acdde5566c4b"],
+            "options": [
+              {
+                "key": "6b216d65-1859-4704-bb12-dc7e07116cf5",
+                "title": "\u5df2\u5b8c\u6210",
+                "deleted": false,
+                "color": "#417505",
+                "bin": "1",
+                "value": 0
+              },
+              {
+                "key": "02a07814-12c5-4baa-bf50-0b520f0068c4",
+                "title": "\ud83c\udfda\u5236\u4f5c\u4e2d",
+                "deleted": false,
+                "color": "#55ADF6",
+                "bin": "10",
+                "value": 0
+              },
+              {
+                "key": "a2700201-cce2-4282-870e-bb8e298d5a0c",
+                "title": "\ud83c\udfda\u5f85\u5236\u4f5c",
+                "deleted": false,
+                "color": "#C3800E",
+                "bin": "10000000000",
+                "value": 0
+              },
+              {
+                "key": "0d5e6dec-af25-4dc7-ac47-6fc2776e184c",
+                "title": "\ud83c\udfda\ufe0f\u6d77\u5916\u63a5\u624b",
+                "deleted": false,
+                "color": "#55C0CA",
+                "bin": "10000000000000000000000000",
+                "value": 0
+              },
+              {
+                "key": "ace5356b-a8b4-4960-aae8-dd3e182748ef",
+                "title": "\ud83c\udfda\u672a\u5f00\u59cb",
+                "deleted": false,
+                "color": "#f9ad14",
+                "bin": "100",
+                "value": 0
+              },
+              {
+                "key": "0d66216b-6aa8-4344-9cc2-74447066e8bd",
+                "title": "\ud83c\udfda\u5df2\u5b8c\u6210\u7b49\u5de5\u7a0b",
+                "deleted": false,
+                "color": "#455a64",
+                "bin": "1000",
+                "value": 0
+              },
+              {
+                "key": "c07dbaad-d51e-489b-8c1c-74f68017ab31",
+                "title": "\ud83c\udfda\u7248\u6743ing",
+                "deleted": false,
+                "color": "#BEAF00",
+                "bin": "10000",
+                "value": 0
+              },
+              {
+                "key": "a7e359ea-4a3c-4d28-b420-62c6e780fa01",
+                "title": "\ud83c\udfda\u5df2\u5165\u5e93",
+                "deleted": false,
+                "color": "#63B900",
+                "bin": "100000",
+                "value": 0
+              },
+              {
+                "key": "eb26fbad-100a-45ae-900a-f3488e89ca2a",
+                "title": "\ud83c\udfda\u5f85\u5165\u5e93",
+                "deleted": false,
+                "color": "#00D459",
+                "bin": "1000000",
+                "value": 0
+              },
+              {
+                "key": "47bc8329-bbcb-4c22-911e-e1c214ca4828",
+                "title": "\ud83c\udfda\u5f85\u63d0\u4ea4",
+                "deleted": false,
+                "color": "#e95c0a",
+                "bin": "10000000",
+                "value": 0
+              },
+              {
+                "key": "ab867797-d98a-48ac-a186-828bcf40cb5b",
+                "title": "\ud83c\udfda\u6682\u505c",
+                "deleted": false,
+                "color": "#9B9B9B",
+                "bin": "1000000000",
+                "value": 0
+              },
+              {
+                "key": "e1128422-a349-422d-826b-9c48ad6eda54",
+                "title": "\ud83c\udfda\u5728\u5e93\u91cc",
+                "deleted": false,
+                "color": "#8f7ee6",
+                "bin": "100000000000",
+                "value": 0
+              },
+              {
+                "key": "35fd8d67-52da-40e9-833e-b253233293a5",
+                "title": "\ud83d\uddbc\u6d77\u5916\u63a5\u624b",
+                "deleted": false,
+                "color": "#9013FE",
+                "bin": "100000000",
+                "value": 0
+              },
+              {
+                "key": "098cde05-045a-4ea4-a4d0-6362e32484bb",
+                "title": "\ud83d\uddbc\u524d\u671f\u2714\ud83d\ude80\u5efa\u6a21",
+                "deleted": false,
+                "color": "#4caf50",
+                "bin": "1000000000000",
+                "value": 0
+              },
+              {
+                "key": "b9b04d81-dca4-42d5-adc4-6564812aa009",
+                "title": "\ud83d\uddbc\u5236\u4f5c\u4e2d",
+                "deleted": false,
+                "color": "#F5906F",
+                "bin": "10000000000000",
+                "value": 0
+              },
+              {
+                "key": "d7f98a81-0004-4c76-a519-35f2cdfaacab",
+                "title": "\ud83d\uddbc\u672a\u5f00\u59cb",
+                "deleted": false,
+                "color": "#BEAF00",
+                "bin": "100000000000000",
+                "value": 0
+              },
+              {
+                "key": "cd79d5cb-6cdd-450a-a0ed-f5f9933e1c5d",
+                "title": "\ud83d\uddbc\u6682\u505c",
+                "deleted": false,
+                "color": "#9B9B9B",
+                "bin": "1000000000000000",
+                "value": 0
+              },
+              {
+                "key": "bd96d7a6-cdaa-42c2-8051-a7d8923be711",
+                "title": "\ud83d\uddbc\u9700\u4fee\u6539",
+                "deleted": false,
+                "color": "#9e4fb1",
+                "bin": "10000000000000000000000",
+                "value": 0
+              },
+              {
+                "key": "0363d8b3-4732-4340-be0b-f85a4494c165",
+                "title": "\ud83d\uddbc\u7b79\u5907\u4e2d",
+                "deleted": false,
+                "color": "#2296f3",
+                "bin": "100000000000000000000000",
+                "value": 0
+              },
+              {
+                "key": "d67d3f3e-a02e-4c14-af9d-74e2f9250375",
+                "title": "\ud83d\uddbc\ufe0f\u53ef\u9881\u53d1",
+                "deleted": false,
+                "color": "#E0B125",
+                "bin": "1000000000000000000000000",
+                "value": 0
+              },
+              {
+                "key": "c2445119-e1df-46f9-9012-acdde5566c4b",
+                "title": "\u672a\u9881\u53d1",
+                "deleted": false,
+                "color": "#9B9B9B",
+                "bin": "10000000000000000",
+                "value": 0
+              },
+              {
+                "key": "d1b8e162-85df-4352-a02b-a2a0b5e6c4c5",
+                "title": "A\u7c7b",
+                "deleted": true,
+                "color": "#e95c0a",
+                "bin": "10000000000000000000",
+                "value": 0
+              },
+              {
+                "key": "a95a8dff-f532-438f-b20d-9e4d5e441bfd",
+                "title": "B\u7c7b",
+                "deleted": true,
+                "color": "#2296f3",
+                "bin": "100000000000000000000",
+                "value": 0
+              },
+              {
+                "key": "d4fc204d-2652-4f75-9f59-f715831e9239",
+                "title": "\u65e7\u8d44\u4ea7",
+                "deleted": true,
+                "color": "#ffaa00",
+                "bin": "1000000000000000000000",
+                "value": 0
+              },
+              {
+                "key": "bdbf8e8e-c785-4c1a-818c-32034dc28270",
+                "title": "\u653e\u5f03",
+                "deleted": false,
+                "color": "#4E9B75",
+                "bin": "100000000000000000",
+                "value": 0
+              },
+              {
+                "key": "956fc93e-9b0b-49d6-99ae-51f8664d4618",
+                "title": "\u4e0b\u67b6",
+                "deleted": false,
+                "color": "#6D5A85",
+                "bin": "1000000000000000000",
+                "value": 0
+              },
+              {
+                "key": "eb605f30-95c1-4f91-adc0-f057cf467c78",
+                "title": "\u5f85\u4fee\u6539-\u672a\u9881\u53d1",
+                "deleted": false,
+                "color": "#8B572A",
+                "bin": "100000000000000000000000000",
+                "value": 0
+              },
+              {
+                "key": "602a27de-3c4f-4940-b001-206e2db711ca",
+                "title": "-\u2705\u274c\u2753-",
+                "deleted": false,
+                "color": "#1CE0F8",
+                "bin": "1000000000000000000000000000",
+                "value": 0
+              }
+            ]
+          },
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "0f9b21d1-5bd7-47a8-b708-a80c93e3bf9d",
+      "type": "rich_text",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u5927\u9646\u5de5\u7a0b\ud83d\udd17",
+      "order": 25,
+      "rquired": 0,
+      "input": ["string"],
+      "output": "string",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "\u586b\u5199\u6587\u672c\u5185\u5bb9",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "0cec0055-6acb-4c4f-b36f-83eeb105a165",
+      "type": "associated_table_field",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u27b0\u5165\u5e93\u72b6\u6001",
+      "order": 26,
+      "rquired": 0,
+      "input": [],
+      "output": "string",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "show-image",
+          "label": "\u663e\u793a\u56fe\u7247",
+          "value": 0,
+          "type": "unknow"
+        },
+        {
+          "key": "variable",
+          "label": "\u53d8\u91cf\u540d",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "associated",
+          "label": "\u5173\u8054\u8868",
+          "value": "361ba450-5163-4df7-b039-fb370e7242de",
+          "type": "unknow"
+        },
+        {
+          "key": "field",
+          "label": "\u663e\u793a\u5b57\u6bb5",
+          "value": "17e3e848-97cd-4381-b828-82df4562dc01",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "b7b8f674-74b6-4b0c-a344-5897caab096e",
+      "type": "date",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u274c\u5f00\u59cb\u5236\u4f5c\u65f6\u95f4",
+      "order": 27,
+      "rquired": 0,
+      "input": ["date"],
+      "output": "date",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "\u586b\u5199\u65e5\u671f",
+          "type": "unknow"
+        },
+        {
+          "key": "variable",
+          "label": "\u53d8\u91cf\u540d",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "accuracy",
+          "label": "\u7cbe\u5ea6",
+          "value": "date",
+          "type": "unknow"
+        },
+        {
+          "key": "default",
+          "label": "\u9ed8\u8ba4\u503c",
+          "value": "",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "feb4793c-779b-4c1f-b199-779f47365014",
+      "type": "date",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u274c\u9884\u8ba1\u5b8c\u6210\u65f6\u95f4",
+      "order": 28,
+      "rquired": 0,
+      "input": ["date"],
+      "output": "date",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "\u586b\u5199\u65e5\u671f",
+          "type": "unknow"
+        },
+        {
+          "key": "variable",
+          "label": "\u53d8\u91cf\u540d",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "accuracy",
+          "label": "\u7cbe\u5ea6",
+          "value": "date",
+          "type": "unknow"
+        },
+        {
+          "key": "default",
+          "label": "\u9ed8\u8ba4\u503c",
+          "value": "",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "52ca8f5f-e0af-46a0-8257-6dbe207271d9",
+      "type": "date",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u274c\u5b9e\u9645\u7ed3\u675f\u65f6\u95f4",
+      "order": 29,
+      "rquired": 0,
+      "input": ["date"],
+      "output": "date",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "\u586b\u5199\u65e5\u671f",
+          "type": "unknow"
+        },
+        {
+          "key": "variable",
+          "label": "\u53d8\u91cf\u540d",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "accuracy",
+          "label": "\u7cbe\u5ea6",
+          "value": "date",
+          "type": "unknow"
+        },
+        {
+          "key": "default",
+          "label": "\u9ed8\u8ba4\u503c",
+          "value": "",
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "b99a96a5-8944-4027-a690-0888b1341a60",
+      "type": "hyperlink",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u4e0b\u53d1\u4fe1\u4ef6",
+      "order": 30,
+      "rquired": 0,
+      "input": ["hyperlink"],
+      "output": "hyperlink",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "default",
+          "label": "\u9ed8\u8ba4\u503c",
+          "value": { "title": "", "url": "" },
+          "type": "hyperlink"
+        },
+        {
+          "key": "show-image",
+          "label": "\u663e\u793a\u56fe\u7247",
+          "value": 0,
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "361ba450-5163-4df7-b039-fb370e7242de",
+      "type": "associated_table",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u6a21\u578b\u5e93\u7248\u6743\u68c0\u67e5\u8868",
+      "order": 31,
+      "rquired": 0,
+      "input": ["uuid_collection"],
+      "output": "associated_table_output",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "multiple",
+          "label": "\u9009\u62e9\u7c7b\u578b",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "sheet",
+          "label": "\u6570\u636e\u8868",
+          "value": "6f97b734-4063-4c3b-a8d0-1005fbf34dc3",
+          "type": "unknow"
+        },
+        {
+          "key": "display",
+          "label": "\u663e\u793a\u7c7b\u578b",
+          "value": "list",
+          "type": "unknow"
+        },
+        {
+          "key": "fields",
+          "label": "\u663e\u793a\u5b57\u6bb5",
+          "value": [
+            "b0446f1e-6c02-4ca0-aaea-b92d640d6838",
+            "3bb66c2d-f683-4cf7-9f88-db6c18e0a997",
+            "7fa111b4-1ba2-4f9f-95a1-dab0b59ce28d",
+            "76eef2f0-5160-4527-9033-2368a27af7ea"
+          ],
+          "type": "unknow"
+        },
+        {
+          "key": "two-way",
+          "label": "\u53cc\u5411\u5173\u8054",
+          "value": {
+            "field": "24b6ff10-1d80-4f6a-8ddd-bc2f22a549ed",
+            "worksheet": "\u6a21\u578b\u5e93\u7248\u6743\u68c0\u67e5\u8868"
+          },
+          "type": "unknow"
+        },
+        {
+          "key": "retrievable",
+          "label": "\u662f\u5426\u53ef\u4ee5\u67e5\u770b\u5173\u8054\u7684\u8868",
+          "value": false,
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "e38b69eb-b0f8-49b5-8a7f-17412956f1db",
+      "type": "associated_table",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u2714\u27b0\u6a21\u578b\u5e93\u5ba1\u6838\u603b\u8868",
+      "order": 32,
+      "rquired": 0,
+      "input": ["uuid_collection"],
+      "output": "associated_table_output",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "placeholder",
+          "label": "\u5f15\u5bfc\u6587\u5b57",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "multiple",
+          "label": "\u9009\u62e9\u7c7b\u578b",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "sheet",
+          "label": "\u6570\u636e\u8868",
+          "value": "afed4513-7f10-4535-987c-d7893a0e96bf",
+          "type": "unknow"
+        },
+        {
+          "key": "display",
+          "label": "\u663e\u793a\u7c7b\u578b",
+          "value": "list",
+          "type": "unknow"
+        },
+        {
+          "key": "fields",
+          "label": "\u663e\u793a\u5b57\u6bb5",
+          "value": [
+            "fb6e69ad-2e1d-4e05-b2a0-f210bc34f18b",
+            "1e11a350-0cdd-49aa-9038-90b9c848d827",
+            "d4c8583c-b888-450f-aa0b-e8a92c8dac41",
+            "e299ce29-a131-464f-b4d6-a450a37de0c3",
+            "2fc11840-797e-4e70-a938-c4be506c144b",
+            "c307461b-fdeb-4984-b2de-dcc6ba698a13",
+            "e163bd99-2423-48d4-93d1-233aab51d9bd",
+            "17594a5a-a94c-4046-bd9f-11b5984b2834"
+          ],
+          "type": "unknow"
+        },
+        {
+          "key": "two-way",
+          "label": "\u53cc\u5411\u5173\u8054",
+          "value": {
+            "field": "dcd28cb1-0f27-4edf-a297-b6d74e5c62ba",
+            "worksheet": "\u6a21\u578b\u5e93\u5ba1\u6838\u603b\u8868"
+          },
+          "type": "unknow"
+        },
+        {
+          "key": "retrievable",
+          "label": "\u662f\u5426\u53ef\u4ee5\u67e5\u770b\u5173\u8054\u7684\u8868",
+          "value": true,
+          "type": "unknow"
+        }
+      ]
+    },
+    {
+      "id": "949ccbbd-2f60-40ce-8623-9fcba4288832",
+      "type": "associated_table_field",
+      "title": false,
+      "required": null,
+      "permission": 0,
+      "field": "\u5ba1\u6838\u7ed3\u679c",
+      "order": 33,
+      "rquired": 0,
+      "input": [],
+      "output": "string",
+      "properties": [
+        {
+          "key": "width",
+          "label": "\u5bbd\u5ea6",
+          "value": "1",
+          "type": "unknow"
+        },
+        {
+          "key": "show-image",
+          "label": "\u663e\u793a\u56fe\u7247",
+          "value": 0,
+          "type": "unknow"
+        },
+        {
+          "key": "variable",
+          "label": "\u53d8\u91cf\u540d",
+          "value": "",
+          "type": "unknow"
+        },
+        {
+          "key": "associated",
+          "label": "\u5173\u8054\u8868",
+          "value": "e38b69eb-b0f8-49b5-8a7f-17412956f1db",
+          "type": "unknow"
+        },
+        {
+          "key": "field",
+          "label": "\u663e\u793a\u5b57\u6bb5",
+          "value": "88256cb2-e433-4457-8f1c-71e3196341b3",
+          "type": "unknow"
+        }
+      ]
+    }
+  ],
+  "meta": { "fixed": ["ctime", "mtime", "creator"] },
+  "benchmark": { "memory": "9.00748 mb", "consume": "0.16251 s" },
+  "query": {
+    "count": 51,
+    "time": 28.91,
+    "sql": [
+      {
+        "query": "select * from `users` where `id` = ? limit 1",
+        "bindings": ["bebc4b3a-3ef4-4c83-bda1-70cbd4fe63e3"],
+        "time": 2.71
+      },
+      {
+        "query": "select * from `worksheets` where `id` = ?",
+        "bindings": ["fcde7942-b517-463d-b252-8e15e939167b"],
+        "time": 0.38
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["3545feb2-48e4-4914-98c0-1d17ed94875d"],
+        "time": 0.52
+      },
+      {
+        "query": "select `roles`.*, `model_has_role`.`model_id` as `pivot_model_id`, `model_has_role`.`role_id` as `pivot_role_id`, `model_has_role`.`model_type` as `pivot_model_type` from `roles` inner join `model_has_role` on `roles`.`id` = `model_has_role`.`role_id` where `model_has_role`.`model_id` = ? and `model_has_role`.`model_type` = ?",
+        "bindings": [
+          "bebc4b3a-3ef4-4c83-bda1-70cbd4fe63e3",
+          "App\\Models\\Base\\User"
+        ],
+        "time": 0.48
+      },
+      {
+        "query": "select * from `model_has_role` where `model_has_role`.`model_id` = ? and `model_has_role`.`model_id` is not null",
+        "bindings": ["bebc4b3a-3ef4-4c83-bda1-70cbd4fe63e3"],
+        "time": 0.45
+      },
+      {
+        "query": "select * from `rules` where `rules`.`model_id` = ? and `rules`.`model_id` is not null and `rules`.`model_type` = ? order by `order` asc",
+        "bindings": [
+          "e05978ea-b423-4cbf-a32a-8c7adee8c1c9",
+          "Rbac\\Models\\ModelHasRole"
+        ],
+        "time": 0.47
+      },
+      {
+        "query": "select * from `worksheets` where `id` = ?",
+        "bindings": ["fcde7942-b517-463d-b252-8e15e939167b"],
+        "time": 0.43
+      },
+      {
+        "query": "select * from `views` where `views`.`ws_id` = ? and `views`.`ws_id` is not null and `views`.`id` is null order by `order` asc, `created_at` asc limit 1",
+        "bindings": ["fcde7942-b517-463d-b252-8e15e939167b"],
+        "time": 0.53
+      },
+      {
+        "query": "select * from `widgets` where `widgets`.`model_id` in (?) and `widgets`.`model_type` = ? order by `order` asc",
+        "bindings": [
+          "fcde7942-b517-463d-b252-8e15e939167b",
+          "App\\Models\\Worksheet\\Worksheet"
+        ],
+        "time": 0.69
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` in (?)",
+        "bindings": ["fcde7942-b517-463d-b252-8e15e939167b"],
+        "time": 0.48
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["3545feb2-48e4-4914-98c0-1d17ed94875d"],
+        "time": 0.44
+      },
+      {
+        "query": "select * from `worksheets` where `id` = ?",
+        "bindings": ["6f97b734-4063-4c3b-a8d0-1005fbf34dc3"],
+        "time": 0.58
+      },
+      {
+        "query": "select * from `widgets` where `widgets`.`model_id` = ? and `widgets`.`model_id` is not null and `widgets`.`model_type` = ? and `widgets`.`id` = ? order by `order` asc limit 1",
+        "bindings": [
+          "6f97b734-4063-4c3b-a8d0-1005fbf34dc3",
+          "App\\Models\\Worksheet\\Worksheet",
+          "24b6ff10-1d80-4f6a-8ddd-bc2f22a549ed"
+        ],
+        "time": 0.42
+      },
+      {
+        "query": "select * from `worksheets` where `id` = ?",
+        "bindings": ["6f97b734-4063-4c3b-a8d0-1005fbf34dc3"],
+        "time": 0.41
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["184a0ca5-2e6d-469b-ae91-39dee03d84b2"],
+        "time": 0.44
+      },
+      {
+        "query": "select * from `views` where `views`.`ws_id` = ? and `views`.`ws_id` is not null order by `order` asc, `created_at` asc",
+        "bindings": ["6f97b734-4063-4c3b-a8d0-1005fbf34dc3"],
+        "time": 0.54
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["6f97b734-4063-4c3b-a8d0-1005fbf34dc3"],
+        "time": 0.39
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["184a0ca5-2e6d-469b-ae91-39dee03d84b2"],
+        "time": 0.37
+      },
+      {
+        "query": "select `roles`.*, (select count(*) from `users` inner join `model_has_role` on `users`.`id` = `model_has_role`.`model_id` where `roles`.`id` = `model_has_role`.`role_id` and `model_has_role`.`model_type` = ?) as `members_count`, `model_has_role`.`model_id` as `pivot_model_id`, `model_has_role`.`role_id` as `pivot_role_id`, `model_has_role`.`model_type` as `pivot_model_type` from `roles` inner join `model_has_role` on `roles`.`id` = `model_has_role`.`role_id` where `model_has_role`.`model_id` = ? and `model_has_role`.`model_type` = ?",
+        "bindings": [
+          "App\\Models\\Base\\User",
+          "184a0ca5-2e6d-469b-ae91-39dee03d84b2",
+          "App\\Models\\Worksheet\\Application"
+        ],
+        "time": 0.7
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["6f97b734-4063-4c3b-a8d0-1005fbf34dc3"],
+        "time": 0.43
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["184a0ca5-2e6d-469b-ae91-39dee03d84b2"],
+        "time": 0.38
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["6f97b734-4063-4c3b-a8d0-1005fbf34dc3"],
+        "time": 0.4
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["184a0ca5-2e6d-469b-ae91-39dee03d84b2"],
+        "time": 0.37
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["6f97b734-4063-4c3b-a8d0-1005fbf34dc3"],
+        "time": 0.39
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["184a0ca5-2e6d-469b-ae91-39dee03d84b2"],
+        "time": 0.39
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["6f97b734-4063-4c3b-a8d0-1005fbf34dc3"],
+        "time": 0.39
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["184a0ca5-2e6d-469b-ae91-39dee03d84b2"],
+        "time": 0.48
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["6f97b734-4063-4c3b-a8d0-1005fbf34dc3"],
+        "time": 0.68
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["184a0ca5-2e6d-469b-ae91-39dee03d84b2"],
+        "time": 0.52
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["6f97b734-4063-4c3b-a8d0-1005fbf34dc3"],
+        "time": 0.54
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["184a0ca5-2e6d-469b-ae91-39dee03d84b2"],
+        "time": 0.48
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["6f97b734-4063-4c3b-a8d0-1005fbf34dc3"],
+        "time": 0.72
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["184a0ca5-2e6d-469b-ae91-39dee03d84b2"],
+        "time": 0.62
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["6f97b734-4063-4c3b-a8d0-1005fbf34dc3"],
+        "time": 0.76
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["184a0ca5-2e6d-469b-ae91-39dee03d84b2"],
+        "time": 0.7
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["6f97b734-4063-4c3b-a8d0-1005fbf34dc3"],
+        "time": 0.6
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["184a0ca5-2e6d-469b-ae91-39dee03d84b2"],
+        "time": 0.59
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["6f97b734-4063-4c3b-a8d0-1005fbf34dc3"],
+        "time": 0.39
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["184a0ca5-2e6d-469b-ae91-39dee03d84b2"],
+        "time": 0.54
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["6f97b734-4063-4c3b-a8d0-1005fbf34dc3"],
+        "time": 0.74
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["184a0ca5-2e6d-469b-ae91-39dee03d84b2"],
+        "time": 0.53
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["6f97b734-4063-4c3b-a8d0-1005fbf34dc3"],
+        "time": 0.52
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["184a0ca5-2e6d-469b-ae91-39dee03d84b2"],
+        "time": 0.55
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["6f97b734-4063-4c3b-a8d0-1005fbf34dc3"],
+        "time": 0.57
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["184a0ca5-2e6d-469b-ae91-39dee03d84b2"],
+        "time": 0.56
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["6f97b734-4063-4c3b-a8d0-1005fbf34dc3"],
+        "time": 0.64
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["184a0ca5-2e6d-469b-ae91-39dee03d84b2"],
+        "time": 0.6
+      },
+      {
+        "query": "select * from `worksheets` where `id` = ?",
+        "bindings": ["afed4513-7f10-4535-987c-d7893a0e96bf"],
+        "time": 0.64
+      },
+      {
+        "query": "select * from `widgets` where `widgets`.`model_id` = ? and `widgets`.`model_id` is not null and `widgets`.`model_type` = ? and `widgets`.`id` = ? order by `order` asc limit 1",
+        "bindings": [
+          "afed4513-7f10-4535-987c-d7893a0e96bf",
+          "App\\Models\\Worksheet\\Worksheet",
+          "dcd28cb1-0f27-4edf-a297-b6d74e5c62ba"
+        ],
+        "time": 0.58
+      },
+      {
+        "query": "select * from `worksheets` where `id` = ?",
+        "bindings": ["afed4513-7f10-4535-987c-d7893a0e96bf"],
+        "time": 0.61
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["3545feb2-48e4-4914-98c0-1d17ed94875d"],
+        "time": 0.57
+      }
+    ]
+  }
+}

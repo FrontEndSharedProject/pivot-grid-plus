@@ -1,0 +1,266 @@
+{
+  "data": {
+    "id": "41c9a057-8329-4fd6-966c-d83c0c9afc85",
+    "name": "\u6d4b\u8bd5",
+    "view_id": "",
+    "source_id": "",
+    "type": 0,
+    "chart": 6,
+    "order": 0,
+    "filters": [],
+    "xaxis": [
+      { "field": "b44c8e7a-1ee0-42bd-a980-60f10cbc08fb", "particle": "" },
+      { "field": "b801b0b7-c871-48c7-b02c-5d3115a7c241", "particle": "" },
+      { "field": "610bd17a-19d8-4d58-9fa3-4b539460e0f1", "particle": "" },
+      { "field": "9cd27cc8-be86-487d-9ac8-2a5648149f27", "particle": "" },
+      { "field": "d3ea7204-3725-4903-85f7-242e8813e8c6", "particle": "" },
+      { "field": "c5817d54-7e2b-4fdc-bab4-47f370b8a7b0", "particle": "" }
+    ],
+    "yaxis": [{ "field": "count", "particle": "" }],
+    "options": {
+      "row": [
+        "b44c8e7a-1ee0-42bd-a980-60f10cbc08fb",
+        "b801b0b7-c871-48c7-b02c-5d3115a7c241",
+        "610bd17a-19d8-4d58-9fa3-4b539460e0f1"
+      ],
+      "column": [
+        "9cd27cc8-be86-487d-9ac8-2a5648149f27",
+        "d3ea7204-3725-4903-85f7-242e8813e8c6",
+        "c5817d54-7e2b-4fdc-bab4-47f370b8a7b0"
+      ]
+    },
+    "sort": { "ctime": true },
+    "result": [ {
+      "fields": [
+        {
+          "id": "[\"e9565a08-32e0-4426-92ba-2bc87b8f5bc0\"]",
+          "field": "b44c8e7a-1ee0-42bd-a980-60f10cbc08fb",
+          "title": "\u6b66\u5668"
+        },
+        {
+          "id": "\u51b7\u5175\u5668",
+          "field": "b801b0b7-c871-48c7-b02c-5d3115a7c241",
+          "title": "\u51b7\u5175\u5668"
+        },
+        {
+          "id": "",
+          "field": "610bd17a-19d8-4d58-9fa3-4b539460e0f1",
+          "title": ""
+        },
+        {
+          "id": "\u65e0\u9650\u5236\u7c7b",
+          "field": "9cd27cc8-be86-487d-9ac8-2a5648149f27",
+          "title": "\u65e0\u9650\u5236\u7c7b"
+        },
+        {
+          "id": "[\"e1128422-a349-422d-826b-9c48ad6eda54\"]",
+          "field": "d3ea7204-3725-4903-85f7-242e8813e8c6",
+          "title": "\ud83c\udfda\u5728\u5e93\u91cc"
+        },
+        {
+          "id": "[\"1ddd9c14-4af9-4daa-93d4-ae3fb2e7d905\"]",
+          "field": "c5817d54-7e2b-4fdc-bab4-47f370b8a7b0",
+          "title": "--"
+        }
+      ],
+      "values": [{ "id": "count", "value": 4 }]
+    },
+      {
+        "fields": [
+          {
+            "id": "[\"e9565a08-32e0-4426-92ba-2bc87b8f5bc0\"]",
+            "field": "b44c8e7a-1ee0-42bd-a980-60f10cbc08fb",
+            "title": "\u6b66\u5668"
+          },
+          {
+            "id": "\u5176\u4ed6",
+            "field": "b801b0b7-c871-48c7-b02c-5d3115a7c241",
+            "title": "\u5176\u4ed6"
+          },
+          {
+            "id": "",
+            "field": "610bd17a-19d8-4d58-9fa3-4b539460e0f1",
+            "title": ""
+          },
+          {
+            "id": "\u65e0\u9650\u5236\u7c7b",
+            "field": "9cd27cc8-be86-487d-9ac8-2a5648149f27",
+            "title": "\u65e0\u9650\u5236\u7c7b"
+          },
+          {
+            "id": "[\"e1128422-a349-422d-826b-9c48ad6eda54\"]",
+            "field": "d3ea7204-3725-4903-85f7-242e8813e8c6",
+            "title": "\ud83c\udfda\u5728\u5e93\u91cc"
+          },
+          {
+            "id": "[\"1ddd9c14-4af9-4daa-93d4-ae3fb2e7d905\"]",
+            "field": "c5817d54-7e2b-4fdc-bab4-47f370b8a7b0",
+            "title": "--"
+          }
+        ],
+        "values": [{ "id": "count", "value": 5 }]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"cb004beb-e52b-4ae0-bf96-0d11ba499177\"]",
+            "field": "b44c8e7a-1ee0-42bd-a980-60f10cbc08fb",
+            "title": "\u653f\u5e9c\u673a\u6784"
+          },
+          {
+            "id": "\u8b66\u7c7b\u5143\u7d20",
+            "field": "b801b0b7-c871-48c7-b02c-5d3115a7c241",
+            "title": "\u8b66\u7c7b\u5143\u7d20"
+          },
+          {
+            "id": "",
+            "field": "610bd17a-19d8-4d58-9fa3-4b539460e0f1",
+            "title": ""
+          },
+          {
+            "id": "\u65e0\u9650\u5236\u7c7b",
+            "field": "9cd27cc8-be86-487d-9ac8-2a5648149f27",
+            "title": "\u65e0\u9650\u5236\u7c7b"
+          },
+          {
+            "id": "[\"e1128422-a349-422d-826b-9c48ad6eda54\"]",
+            "field": "d3ea7204-3725-4903-85f7-242e8813e8c6",
+            "title": "\ud83c\udfda\u5728\u5e93\u91cc"
+          },
+          {
+            "id": "[\"1ddd9c14-4af9-4daa-93d4-ae3fb2e7d905\"]",
+            "field": "c5817d54-7e2b-4fdc-bab4-47f370b8a7b0",
+            "title": "--"
+          }
+        ],
+        "values": [{ "id": "count", "value": 18 }]
+      },
+      {
+        "fields": [
+          {
+            "id": "[\"cb004beb-e52b-4ae0-bf96-0d11ba499177\"]",
+            "field": "b44c8e7a-1ee0-42bd-a980-60f10cbc08fb",
+            "title": "\u653f\u5e9c\u673a\u6784"
+          },
+          {
+            "id": "\u8b66\u7c7b\u5143\u7d20",
+            "field": "b801b0b7-c871-48c7-b02c-5d3115a7c241",
+            "title": "\u8b66\u7c7b\u5143\u7d20"
+          },
+          {
+            "id": "",
+            "field": "610bd17a-19d8-4d58-9fa3-4b539460e0f1",
+            "title": ""
+          },
+          {
+            "id": "",
+            "field": "9cd27cc8-be86-487d-9ac8-2a5648149f27",
+            "title": ""
+          },
+          {
+            "id": "[\"e1128422-a349-422d-826b-9c48ad6eda54\"]",
+            "field": "d3ea7204-3725-4903-85f7-242e8813e8c6",
+            "title": "\ud83c\udfda\u5728\u5e93\u91cc"
+          },
+          {
+            "id": "[\"1ddd9c14-4af9-4daa-93d4-ae3fb2e7d905\"]",
+            "field": "c5817d54-7e2b-4fdc-bab4-47f370b8a7b0",
+            "title": "--"
+          }
+        ],
+        "values": [{ "id": "count", "value": 3 }]
+      }
+    ],
+    "worksheet": {
+      "id": "fcde7942-b517-463d-b252-8e15e939167b",
+      "name": "\u8d44\u4ea7\u5236\u4f5c\u8be6\u60c5\u8868",
+      "icon": "carry-out"
+    }
+  },
+  "benchmark": { "memory": "11.80326 mb", "consume": "0.03654 s" },
+  "query": {
+    "count": 14,
+    "time": 9.1,
+    "sql": [
+      {
+        "query": "select * from `users` where `id` = ? limit 1",
+        "bindings": ["bebc4b3a-3ef4-4c83-bda1-70cbd4fe63e3"],
+        "time": 2.86
+      },
+      {
+        "query": "select * from `worksheets` where `id` = ?",
+        "bindings": ["fcde7942-b517-463d-b252-8e15e939167b"],
+        "time": 0.49
+      },
+      {
+        "query": "select * from `reports` where `id` = ?",
+        "bindings": ["41c9a057-8329-4fd6-966c-d83c0c9afc85"],
+        "time": 0.46
+      },
+      {
+        "query": "select * from `reports` where `id` = ?",
+        "bindings": ["41c9a057-8329-4fd6-966c-d83c0c9afc85"],
+        "time": 0.42
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["fcde7942-b517-463d-b252-8e15e939167b"],
+        "time": 0.48
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["3545feb2-48e4-4914-98c0-1d17ed94875d"],
+        "time": 0.46
+      },
+      {
+        "query": "select `roles`.*, `model_has_role`.`model_id` as `pivot_model_id`, `model_has_role`.`role_id` as `pivot_role_id`, `model_has_role`.`model_type` as `pivot_model_type` from `roles` inner join `model_has_role` on `roles`.`id` = `model_has_role`.`role_id` where `model_has_role`.`model_id` = ? and `model_has_role`.`model_type` = ?",
+        "bindings": [
+          "bebc4b3a-3ef4-4c83-bda1-70cbd4fe63e3",
+          "App\\Models\\Base\\User"
+        ],
+        "time": 0.51
+      },
+      {
+        "query": "select * from `model_has_role` where `model_has_role`.`model_id` = ? and `model_has_role`.`model_id` is not null",
+        "bindings": ["bebc4b3a-3ef4-4c83-bda1-70cbd4fe63e3"],
+        "time": 0.45
+      },
+      {
+        "query": "select * from `rules` where `rules`.`model_id` = ? and `rules`.`model_id` is not null and `rules`.`model_type` = ? order by `order` asc",
+        "bindings": [
+          "e05978ea-b423-4cbf-a32a-8c7adee8c1c9",
+          "Rbac\\Models\\ModelHasRole"
+        ],
+        "time": 0.57
+      },
+      {
+        "query": "select * from `reports` where `id` = ?",
+        "bindings": ["41c9a057-8329-4fd6-966c-d83c0c9afc85"],
+        "time": 0.56
+      },
+      {
+        "query": "select * from `worksheets` where `worksheets`.`id` = ? limit 1",
+        "bindings": ["fcde7942-b517-463d-b252-8e15e939167b"],
+        "time": 0.48
+      },
+      {
+        "query": "select * from `applications` where `applications`.`id` = ? limit 1",
+        "bindings": ["3545feb2-48e4-4914-98c0-1d17ed94875d"],
+        "time": 0.44
+      },
+      {
+        "query": "select * from `rules` where `rules`.`model_id` = ? and `rules`.`model_id` is not null and `rules`.`model_type` = ? order by `order` asc",
+        "bindings": [
+          "41c9a057-8329-4fd6-966c-d83c0c9afc85",
+          "App\\Models\\Worksheet\\Report"
+        ],
+        "time": 0.45
+      },
+      {
+        "query": "select * from `views` where `views`.`id` = ? limit 1",
+        "bindings": [""],
+        "time": 0.47
+      }
+    ]
+  }
+}
