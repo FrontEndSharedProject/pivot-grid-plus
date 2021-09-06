@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "A pivot table plugin basted on pivot-grid",
   "license": "MIT",
-  "main": "/pivot-grid-plus.es.js",
+  "main": "/dist/pivot-grid-plus.es.js",
   "scripts": {
     "serve": "vite --open --port 8080",
     "build": "vite build"
