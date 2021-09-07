@@ -7,7 +7,7 @@
   "scripts": {
     "serve": "vite --open --port 8080",
     "build": "vite build",
-    "publish": "npm run build && npm publish"
+    "publish-remote": "npm run build && npm publish"
   },
   "keywords": [],
   "author": "LH",
