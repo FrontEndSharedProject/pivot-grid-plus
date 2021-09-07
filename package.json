@@ -1,12 +1,13 @@
 {
   "name": "pivot-grid-plus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A pivot table plugin basted on pivot-grid",
   "license": "MIT",
   "main": "/dist/pivot-grid-plus.es.js",
   "scripts": {
     "serve": "vite --open --port 8080",
-    "build": "vite build"
+    "build": "vite build",
+    "publish": "npm run build && npm publish"
   },
   "keywords": [],
   "author": "LH",

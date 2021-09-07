@@ -174,9 +174,7 @@ function formatVaulesKey(keyName) {
     },
   });
 
-  //  初始化时候传入 field chooser
-  //  获取field chooser
-  //  todo 参数设置
+  window.P = P
 
   document.getElementById("expandAll").addEventListener("click", () => {
     P.expandAll();
