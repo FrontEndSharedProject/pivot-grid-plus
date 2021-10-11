@@ -1,6 +1,6 @@
 {
   "name": "pivot-grid-plus",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A pivot table plugin basted on pivot-grid",
   "license": "MIT",
   "main": "./dist/visual-grid.umd.js",
