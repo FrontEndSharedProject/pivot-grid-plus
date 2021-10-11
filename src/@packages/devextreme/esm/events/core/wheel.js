@@ -54,7 +54,7 @@ var wheel = {
         }
     }
 };
-registerEvent(EVENT_NAME, wheel);
+// registerEvent(EVENT_NAME, wheel);
 export {
     EVENT_NAME as name
 };
