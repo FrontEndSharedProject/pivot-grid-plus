@@ -3,9 +3,9 @@ import { throttle } from "throttle-debounce";
 import { isMacOs } from "/@/js/utils";
 
 export abstract class Base {
-  protected options: Partial<PivotGridPlusOption>;
+  protected options: Partial<PivotGridPlusOption> = {};
   protected DP: any = null;
-  protected defaultOption: Partial<PivotGridPlusOption>;
+  protected defaultOption: Partial<PivotGridPlusOption> = {};
 
   /**
    * 获取 row 与 column 中第一个field

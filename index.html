@@ -19,22 +19,11 @@
       <button class="mr-4 hover:text-blue-600" id="collapseAll">
         收起全部
       </button>
-      <button
-        class="mr-4 hover:text-blue-600"
-        id="changeHeight"
-      >
+      <button class="mr-4 hover:text-blue-600" id="changeHeight">
         改变Parent高度
       </button>
-      <button
-              class="mr-4 hover:text-blue-600"
-              id="export"
-      >
-        导出
-      </button>
-      <button
-              class="mr-4 hover:text-blue-600"
-              id="emptyPlaceHolder"
-      >
+      <button class="mr-4 hover:text-blue-600" id="export">导出</button>
+      <button class="mr-4 hover:text-blue-600" id="emptyPlaceHolder">
         修改空值占位符
       </button>
     </div>
@@ -48,5 +37,16 @@
     </div>
 
     <script type="module" src="/src/index.ts"></script>
+
+    <div id="hugeList"></div>
+    <script>
+      const box = document.getElementById("hugeList");
+      let html = "";
+      for (let i = 0; i < 2000; i++) {
+        html += `<p>${Math.random()}</p>`;
+      }
+
+      box.innerHTML = html;
+    </script>
   </body>
 </html>

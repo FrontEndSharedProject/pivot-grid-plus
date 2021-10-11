@@ -30,7 +30,7 @@ export abstract class DataHandler {
     if (isString(options.tdCustomStyle)) {
       stylesObj.all = options.tdCustomStyle;
     } else {
-      let { all, data, row, column } = options.tdCustomStyle;
+      let { all, data, row, column } = options.tdCustomStyle as TCustomStyleObj;
       //  如果tdCustomStyle是个有 all, data, row, column的css rules对象
       if (all || data || row || column) {
         stylesObj.all = isString(all) ? all : cssRulesObjToCssText(all ?? {});
@@ -43,7 +43,9 @@ export abstract class DataHandler {
           : cssRulesObjToCssText(column ?? {});
       } else {
         //  如果tdCustomStyle直接是css rules对象
-        stylesObj.all = cssRulesObjToCssText(options.tdCustomStyle ?? {});
+        stylesObj.all = cssRulesObjToCssText(
+          (options.tdCustomStyle ?? {}) as TCustomStyleObj
+        );
       }
     }
 

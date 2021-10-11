@@ -4,7 +4,7 @@
  */
 export function cssRulesObjToCssText(rules: {
   [k: string]: string | number;
-}): string {
+} | any): string {
   return Object.entries(rules)
     .map(([k, v]) => {
       k = k.replace(/[A-Z]/g, (match) => `-${match.toLowerCase()}`);

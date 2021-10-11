@@ -9,6 +9,7 @@ export type Field = PivotGridDataSourceField;
  * @deprecated Use Field instead
  */
 export interface PivotGridDataSourceField {
+  emptyPlaceHolder: string;
   index: number;
   /**
    * @docid PivotGridDataSourceOptions.fields.allowCrossGroupCalculation
