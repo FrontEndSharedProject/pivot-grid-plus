@@ -3,8 +3,8 @@
   "version": "1.0.4",
   "description": "A pivot table plugin basted on pivot-grid",
   "license": "MIT",
-  "main": "./dist/visual-grid.umd.js",
-  "module": "./dist/visual-grid.es.js",
+  "main": "./dist/pivot-grid-plus.umd.js",
+  "module": "./dist/pivot-grid-plus.es.js",
   "types": "./dist/js/index.d.ts",
   "scripts": {
     "serve": "vite --open --port 8080",
